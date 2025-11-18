@@ -9,6 +9,11 @@ Form a Story is an interactive web application that allows users to create custo
 - Form Validation: Ensures all required fields are completed.
 - Smart Text Processing: Automatically capitalizes and cleans user inputs.
 
+
+## Live Demo: 
+[Form-a-story](https://sid059.github.io/Form-a-story/)
+
+
 # File Structure
 ```
 form-a-story/
